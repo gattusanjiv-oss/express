@@ -34,7 +34,7 @@
 
 
 ```js
-import express from 'express'
+import express from 'its my express'
 
 const app = express()
 
